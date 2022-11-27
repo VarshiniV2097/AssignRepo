@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1:-Navigate to url]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 2- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on CheckoutButton]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- verify that Added ProductDetail Is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- enter data in Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Step 10:- verify that added product is displayed in checkout overview page]]>
+    </line>
+    <line>
+      <![CDATA[Step 11 :- Click on 'Finish' button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 12:- Verify that Finish order page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Click On Remove button]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click On Shopping cart container]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Verify remove product is removed form the cart]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on CheckoutButton]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- enter data in Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Step 10 :- Click on 'Finish' button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on CheckoutButton]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- FirstName Required Message Is Displayed when user Leave Blank The FirstName Field in checkout info]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- Click on Remove button]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Menu Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Cancel button]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Verify Menu button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that 'Remove' button is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Menu Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on 'About' button from the menu list]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Verify SauceLab Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Menu Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on logout from the menu list]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Verify User Navigate to Sample Page]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click On Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Verify that user navigate to product page]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on CheckoutButton]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- Click on Cancel]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 10:- Verify that your cart page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Verify that Valid Price is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on 'Continue Shopping' Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- Verify that product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- verify that Added Product Detail is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click On Checkout Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Enter FirstName,LastName,PostalCode]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on Menu Button]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Click on CheckoutButton]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- enter data in Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Step 10:- verify that added product is displayed in checkout overview page]]>
+    </line>
+    <line>
+      <![CDATA[Step 11 :- Click on 'Cancel' button ]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:-Navigate to url:-]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:- Enter valid Username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:-Verify that Product page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Click on product]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Verify that product description is displayed when user click on given link of the products]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-08-13T09:42:48Z" name="End 2 End Cases" finished-at="2020-08-13T09:45:33Z" duration-ms="165251">
+    <groups>
+    </groups>
+    <test started-at="2020-08-13T09:42:48Z" name="Cord" finished-at="2020-08-13T09:45:33Z" duration-ms="165251">
+      <class name="Sample.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.LoginTest@3e6ef8ad]" started-at="2020-08-13T09:42:48Z" name="setUp" finished-at="2020-08-13T09:42:54Z" duration-ms="6244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySuccessfullyLoginWithValidCredential()[pri:0, instance:Sample.LoginTest@3e6ef8ad]" started-at="2020-08-13T09:42:54Z" name="verifySuccessfullyLoginWithValidCredential" finished-at="2020-08-13T09:42:59Z" duration-ms="4429" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url]]>
+            </line>
+            <line>
+              <![CDATA[Step 2- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfullyLoginWithValidCredential -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.LoginTest@3e6ef8ad]" started-at="2020-08-13T09:42:59Z" name="tearDown" finished-at="2020-08-13T09:42:59Z" duration-ms="664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifySuccessfullyLoginWithValidCredential status=SUCCESS method=LoginTest.verifySuccessfullyLoginWithValidCredential()[pri:0, instance:Sample.LoginTest@3e6ef8ad] output=Step 1:-Navigate to url]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sample.LoginTest -->
+      <class name="Sample.ProductTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:42:48Z" name="setUp" finished-at="2020-08-13T09:42:54Z" duration-ms="6305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAddedProductDisplayedIntoCart()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:42:54Z" name="VerifyAddedProductDisplayedIntoCart" finished-at="2020-08-13T09:43:02Z" duration-ms="7665" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- verify that Added ProductDetail Is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyAddedProductDisplayedIntoCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:02Z" name="tearDown" finished-at="2020-08-13T09:43:03Z" duration-ms="692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyAddedProductDisplayedIntoCart status=SUCCESS method=ProductTest.VerifyAddedProductDisplayedIntoCart()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:03Z" name="setUp" finished-at="2020-08-13T09:43:08Z" duration-ms="5329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAddedProductRemoveFromTheCart()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:08Z" name="VerifyAddedProductRemoveFromTheCart" finished-at="2020-08-13T09:43:46Z" duration-ms="37819" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Click On Remove button]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click On Shopping cart container]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Verify remove product is removed form the cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyAddedProductRemoveFromTheCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:46Z" name="tearDown" finished-at="2020-08-13T09:43:47Z" duration-ms="658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyAddedProductRemoveFromTheCart status=SUCCESS method=ProductTest.VerifyAddedProductRemoveFromTheCart()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:47Z" name="setUp" finished-at="2020-08-13T09:43:52Z" duration-ms="5343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyMenuListClosed()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:52Z" name="VerifyMenuListClosed" finished-at="2020-08-13T09:43:59Z" duration-ms="7339" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Menu Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Cancel button]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Verify Menu button Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyMenuListClosed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:43:59Z" name="tearDown" finished-at="2020-08-13T09:44:00Z" duration-ms="638" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyMenuListClosed status=SUCCESS method=ProductTest.VerifyMenuListClosed()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:00Z" name="setUp" finished-at="2020-08-13T09:44:05Z" duration-ms="5344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifySauceLabPageIsDisplayed()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:05Z" name="VerifySauceLabPageIsDisplayed" finished-at="2020-08-13T09:44:18Z" duration-ms="12653" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Menu Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on 'About' button from the menu list]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Verify SauceLab Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySauceLabPageIsDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:18Z" name="tearDown" finished-at="2020-08-13T09:44:19Z" duration-ms="685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifySauceLabPageIsDisplayed status=SUCCESS method=ProductTest.VerifySauceLabPageIsDisplayed()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:19Z" name="setUp" finished-at="2020-08-13T09:44:24Z" duration-ms="5231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyUserCanLogout()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:24Z" name="VerifyUserCanLogout" finished-at="2020-08-13T09:44:30Z" duration-ms="6425" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Menu Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on logout from the menu list]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Verify User Navigate to Sample Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanLogout -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:30Z" name="tearDown" finished-at="2020-08-13T09:44:31Z" duration-ms="647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyUserCanLogout status=SUCCESS method=ProductTest.VerifyUserCanLogout()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:31Z" name="setUp" finished-at="2020-08-13T09:44:36Z" duration-ms="5223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyUserCanNavigateToPreviousPage()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:36Z" name="VerifyUserCanNavigateToPreviousPage" finished-at="2020-08-13T09:44:43Z" duration-ms="6969" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click On Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Verify that user navigate to product page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanNavigateToPreviousPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:43Z" name="tearDown" finished-at="2020-08-13T09:44:44Z" duration-ms="679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyUserCanNavigateToPreviousPage status=SUCCESS method=ProductTest.VerifyUserCanNavigateToPreviousPage()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:44Z" name="setUp" finished-at="2020-08-13T09:44:49Z" duration-ms="5455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyValidProductPriceDisplayed()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:49Z" name="VerifyValidProductPriceDisplayed" finished-at="2020-08-13T09:44:55Z" duration-ms="5637" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Verify that Valid Price is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyValidProductPriceDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:55Z" name="tearDown" finished-at="2020-08-13T09:44:56Z" duration-ms="640" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyValidProductPriceDisplayed status=SUCCESS method=ProductTest.VerifyValidProductPriceDisplayed()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:44:56Z" name="setUp" finished-at="2020-08-13T09:45:01Z" duration-ms="5220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddedProductAddingInoCart()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:01Z" name="verifyAddedProductAddingInoCart" finished-at="2020-08-13T09:45:11Z" duration-ms="9782" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- verify that Added Product Detail is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click On Checkout Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Enter FirstName,LastName,PostalCode]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddedProductAddingInoCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:11Z" name="tearDown" finished-at="2020-08-13T09:45:11Z" duration-ms="651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyAddedProductAddingInoCart status=SUCCESS method=ProductTest.verifyAddedProductAddingInoCart()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:11Z" name="setUp" finished-at="2020-08-13T09:45:16Z" duration-ms="5315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMenuListDisplayed()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:16Z" name="verifyMenuListDisplayed" finished-at="2020-08-13T09:45:21Z" duration-ms="4608" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Menu Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:-Verify All Menu item is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMenuListDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:21Z" name="tearDown" finished-at="2020-08-13T09:45:22Z" duration-ms="662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyMenuListDisplayed status=SUCCESS method=ProductTest.verifyMenuListDisplayed()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:22Z" name="setUp" finished-at="2020-08-13T09:45:27Z" duration-ms="5242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductDescriptionIsDisplayed()[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:27Z" name="verifyProductDescriptionIsDisplayed" finished-at="2020-08-13T09:45:32Z" duration-ms="4880" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product description is displayed when user click on given link of the products]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductDescriptionIsDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.ProductTest@346d61be]" started-at="2020-08-13T09:45:32Z" name="tearDown" finished-at="2020-08-13T09:45:33Z" duration-ms="1484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyProductDescriptionIsDisplayed status=SUCCESS method=ProductTest.verifyProductDescriptionIsDisplayed()[pri:0, instance:Sample.ProductTest@346d61be] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sample.ProductTest -->
+      <class name="Sample.AddToCartTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:42:48Z" name="setUp" finished-at="2020-08-13T09:42:54Z" duration-ms="6328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyFinishOrderPgeIsDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:42:54Z" name="VerifyFinishOrderPgeIsDisplayed" finished-at="2020-08-13T09:43:06Z" duration-ms="11667" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on CheckoutButton]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- enter data in Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Step 10:- verify that added product is displayed in checkout overview page]]>
+            </line>
+            <line>
+              <![CDATA[Step 11 :- Click on 'Finish' button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 12:- Verify that Finish order page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyFinishOrderPgeIsDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:06Z" name="tearDown" finished-at="2020-08-13T09:43:07Z" duration-ms="637" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=VerifyFinishOrderPgeIsDisplayed status=SUCCESS method=AddToCartTest.VerifyFinishOrderPgeIsDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:07Z" name="setUp" finished-at="2020-08-13T09:43:12Z" duration-ms="5243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckoutOverviewPageIsDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:12Z" name="verifyCheckoutOverviewPageIsDisplayed" finished-at="2020-08-13T09:43:23Z" duration-ms="10735" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on CheckoutButton]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- enter data in Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Step 10 :- Click on 'Finish' button ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutOverviewPageIsDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:23Z" name="tearDown" finished-at="2020-08-13T09:43:23Z" duration-ms="650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyCheckoutOverviewPageIsDisplayed status=SUCCESS method=AddToCartTest.verifyCheckoutOverviewPageIsDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:23Z" name="setUp" finished-at="2020-08-13T09:43:29Z" duration-ms="5236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:29Z" name="verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank" finished-at="2020-08-13T09:43:39Z" duration-ms="10331" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on CheckoutButton]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- FirstName Required Message Is Displayed when user Leave Blank The FirstName Field in checkout info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:39Z" name="tearDown" finished-at="2020-08-13T09:43:40Z" duration-ms="649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank status=SUCCESS method=AddToCartTest.verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:40Z" name="setUp" finished-at="2020-08-13T09:43:45Z" duration-ms="5271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductIsRemoveFromTheCart()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:45Z" name="verifyProductIsRemoveFromTheCart" finished-at="2020-08-13T09:43:55Z" duration-ms="9780" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- Click on Remove button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductIsRemoveFromTheCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:55Z" name="tearDown" finished-at="2020-08-13T09:43:55Z" duration-ms="671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyProductIsRemoveFromTheCart status=SUCCESS method=AddToCartTest.verifyProductIsRemoveFromTheCart()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:43:55Z" name="setUp" finished-at="2020-08-13T09:44:01Z" duration-ms="5314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRemoveButtonIsNotDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:01Z" name="verifyRemoveButtonIsNotDisplayed" finished-at="2020-08-13T09:44:36Z" duration-ms="35328" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that 'Remove' button is not displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveButtonIsNotDisplayed -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:36Z" name="tearDown" finished-at="2020-08-13T09:44:37Z" duration-ms="652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyRemoveButtonIsNotDisplayed status=SUCCESS method=AddToCartTest.verifyRemoveButtonIsNotDisplayed()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:37Z" name="setUp" finished-at="2020-08-13T09:44:42Z" duration-ms="5265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:42Z" name="verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage" finished-at="2020-08-13T09:44:52Z" duration-ms="10284" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on CheckoutButton]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- Click on Cancel]]>
+            </line>
+            <line>
+              <![CDATA[Step 10:- Verify that your cart page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:52Z" name="tearDown" finished-at="2020-08-13T09:44:53Z" duration-ms="671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage status=SUCCESS method=AddToCartTest.verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:53Z" name="setUp" finished-at="2020-08-13T09:44:58Z" duration-ms="5371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserCanContinueShopping()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:44:58Z" name="verifyUserCanContinueShopping" finished-at="2020-08-13T09:45:07Z" duration-ms="8548" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on 'Continue Shopping' Button]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- Verify that product page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanContinueShopping -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:45:07Z" name="tearDown" finished-at="2020-08-13T09:45:07Z" duration-ms="639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyUserCanContinueShopping status=SUCCESS method=AddToCartTest.verifyUserCanContinueShopping()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:45:07Z" name="setUp" finished-at="2020-08-13T09:45:13Z" duration-ms="5355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserNavigatedToProductPageByClickOnCancelButton()[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:45:13Z" name="verifyUserNavigatedToProductPageByClickOnCancelButton" finished-at="2020-08-13T09:45:27Z" duration-ms="14087" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-Navigate to url:-]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:- Enter valid Username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:-Verify that Product page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Click on product]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Verify that product detail page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- Click on Add To Cart Button ]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- Click on Shopping Cart Container]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Click on CheckoutButton]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- enter data in Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Step 10:- verify that added product is displayed in checkout overview page]]>
+            </line>
+            <line>
+              <![CDATA[Step 11 :- Click on 'Cancel' button ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserNavigatedToProductPageByClickOnCancelButton -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Sample.AddToCartTest@55536d9e]" started-at="2020-08-13T09:45:27Z" name="tearDown" finished-at="2020-08-13T09:45:28Z" duration-ms="677" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[[TestResult name=verifyUserNavigatedToProductPageByClickOnCancelButton status=SUCCESS method=AddToCartTest.verifyUserNavigatedToProductPageByClickOnCancelButton()[pri:0, instance:Sample.AddToCartTest@55536d9e] output=Step 1:-Navigate to url:-]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sample.AddToCartTest -->
+    </test> <!-- Cord -->
+  </suite> <!-- End 2 End Cases -->
+</testng-results>

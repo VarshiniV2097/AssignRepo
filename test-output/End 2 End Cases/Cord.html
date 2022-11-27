@@ -1,0 +1,435 @@
+<html>
+<head>
+<title>TestNG:  Cord</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Cord</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>19/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Aug 13 15:12:48 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>165 seconds (165251 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Sample.ProductTest.VerifyAddedProductDisplayedIntoCart()'><b>VerifyAddedProductDisplayedIntoCart</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-2062496237" onClick='toggleBox("Output-2062496237", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2062496237" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2062496237">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 6:- Click on Shopping Cart Container<br/>
+Step 7:- verify that Added ProductDetail Is Displayed<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifyAddedProductRemoveFromTheCart()'><b>VerifyAddedProductRemoveFromTheCart</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-997158449" onClick='toggleBox("Output-997158449", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-997158449" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-997158449">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Add To Cart Button <br/>
+Step 5:- Click On Remove button<br/>
+Step 6:- Click On Shopping cart container<br/>
+Step 7:- Verify remove product is removed form the cart<br/>
+</div>
+</td>
+<td></td>
+<td>37</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.VerifyFinishOrderPgeIsDisplayed()'><b>VerifyFinishOrderPgeIsDisplayed</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-446325879" onClick='toggleBox("Output-446325879", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-446325879" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-446325879">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on CheckoutButton<br/>
+Step 9:- enter data in Checkout<br/>
+Step 10:- verify that added product is displayed in checkout overview page<br/>
+Step 11 :- Click on 'Finish' button <br/>
+Step 12:- Verify that Finish order page is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>11</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifyMenuListClosed()'><b>VerifyMenuListClosed</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-228560920" onClick='toggleBox("Output-228560920", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-228560920" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-228560920">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Menu Button<br/>
+Step 5:-Verify All Menu item is Displayed<br/>
+Step 6:- Click on Cancel button<br/>
+Step 7:- Verify Menu button Displayed<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifySauceLabPageIsDisplayed()'><b>VerifySauceLabPageIsDisplayed</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-676657278" onClick='toggleBox("Output-676657278", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-676657278" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-676657278">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Menu Button<br/>
+Step 5:-Verify All Menu item is Displayed<br/>
+Step 6:- Click on 'About' button from the menu list<br/>
+Step 7:- Verify SauceLab Page is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifyUserCanLogout()'><b>VerifyUserCanLogout</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-270087898" onClick='toggleBox("Output-270087898", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-270087898" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-270087898">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Menu Button<br/>
+Step 5:-Verify All Menu item is Displayed<br/>
+Step 6:- Click on logout from the menu list<br/>
+Step 6:- Verify User Navigate to Sample Page<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifyUserCanNavigateToPreviousPage()'><b>VerifyUserCanNavigateToPreviousPage</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-1738897098" onClick='toggleBox("Output-1738897098", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1738897098" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1738897098">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click On Back Button<br/>
+Step 7:- Verify that user navigate to product page<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.VerifyValidProductPriceDisplayed()'><b>VerifyValidProductPriceDisplayed</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-8011256" onClick='toggleBox("Output-8011256", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-8011256" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-8011256">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Verify that Valid Price is Displayed<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.verifyAddedProductAddingInoCart()'><b>verifyAddedProductAddingInoCart</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-650794243" onClick='toggleBox("Output-650794243", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-650794243" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-650794243">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button<br/>
+Step 6:- Click on Shopping Cart Container<br/>
+Step 7:- verify that Added Product Detail is Displayed<br/>
+Step 8:- Click On Checkout Button<br/>
+Step 8:- Enter FirstName,LastName,PostalCode<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyCheckoutOverviewPageIsDisplayed()'><b>verifyCheckoutOverviewPageIsDisplayed</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-722408906" onClick='toggleBox("Output-722408906", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-722408906" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-722408906">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on CheckoutButton<br/>
+Step 9:- enter data in Checkout<br/>
+Step 10 :- Click on 'Finish' button <br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank()'><b>verifyErrorMessageDisplayedWhenLeaveAllTheFieldBlank</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-935070255" onClick='toggleBox("Output-935070255", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-935070255" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-935070255">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on CheckoutButton<br/>
+Step 9:- FirstName Required Message Is Displayed when user Leave Blank The FirstName Field in checkout info<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.ProductTest.verifyMenuListDisplayed()'><b>verifyMenuListDisplayed</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-565567741" onClick='toggleBox("Output-565567741", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-565567741" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-565567741">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Menu Button<br/>
+Step 5:-Verify All Menu item is Displayed<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.ProductTest.verifyProductDescriptionIsDisplayed()'><b>verifyProductDescriptionIsDisplayed</b><br>Test class: Sample.ProductTest<br/>
+<a href="#Output-228951860" onClick='toggleBox("Output-228951860", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-228951860" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-228951860">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product description is displayed when user click on given link of the products<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>Sample.ProductTest@346d61be</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyProductIsRemoveFromTheCart()'><b>verifyProductIsRemoveFromTheCart</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-1092082421" onClick='toggleBox("Output-1092082421", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1092082421" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1092082421">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on Shopping Cart Container<br/>
+Step 9:- Click on Remove button<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyRemoveButtonIsNotDisplayed()'><b>verifyRemoveButtonIsNotDisplayed</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-3012510" onClick='toggleBox("Output-3012510", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-3012510" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-3012510">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on Shopping Cart Container<br/>
+Step 5:- Verify that 'Remove' button is not displayed<br/>
+</div>
+</td>
+<td></td>
+<td>35</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.LoginTest.verifySuccessfullyLoginWithValidCredential()'><b>verifySuccessfullyLoginWithValidCredential</b><br>Test class: Sample.LoginTest<br/>
+<a href="#Output-1506537244" onClick='toggleBox("Output-1506537244", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1506537244" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1506537244">
+Step 1:-Navigate to url<br/>
+Step 2- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>Sample.LoginTest@3e6ef8ad</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage()'><b>verifyUserCanCancelCheckoutOrderAndNavigatedToYourCartPage</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-1395964370" onClick='toggleBox("Output-1395964370", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1395964370" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1395964370">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on CheckoutButton<br/>
+Step 9:- Click on Cancel<br/>
+Step 10:- Verify that your cart page is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyUserCanContinueShopping()'><b>verifyUserCanContinueShopping</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-2136763034" onClick='toggleBox("Output-2136763034", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2136763034" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2136763034">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on 'Continue Shopping' Button<br/>
+Step 9:- Verify that product page is displayed<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+<tr>
+<td title='Sample.AddToCartTest.verifyUserNavigatedToProductPageByClickOnCancelButton()'><b>verifyUserNavigatedToProductPageByClickOnCancelButton</b><br>Test class: Sample.AddToCartTest<br/>
+<a href="#Output-1690872820" onClick='toggleBox("Output-1690872820", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1690872820" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1690872820">
+Step 1:-Navigate to url:-<br/>
+Step 2:- Enter valid Username and valid password<br/>
+Step 3:-Verify that Product page is displayed<br/>
+Step 4:- Click on product<br/>
+Step 5:- Verify that product detail page is displayed<br/>
+Step 6:- Click on Add To Cart Button <br/>
+Step 7:- Click on Shopping Cart Container<br/>
+Step 8:- Click on CheckoutButton<br/>
+Step 9:- enter data in Checkout<br/>
+Step 10:- verify that added product is displayed in checkout overview page<br/>
+Step 11 :- Click on 'Cancel' button <br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>Sample.AddToCartTest@55536d9e</td></tr>
+</table><p>
+</body>
+</html>
